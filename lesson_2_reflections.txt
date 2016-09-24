@@ -4,3 +4,7 @@ Git creates metadata to start tracking at the directory you run the command in.Y
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 THe staging area is an intermediate place where changes are tracked, but not yet committed. This allows you to track, with the option of going back or making further changes.
 
+
+asdf
+
+
