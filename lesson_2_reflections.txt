@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates metadata to start tracking at the directory you run the command in.You need to do it so git knows what to track
