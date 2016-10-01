@@ -14,3 +14,6 @@ Well, there are a billion reasons. If you have 2 or more sets of releases you ne
 
 How do the diagrams help you visualize the branch structure?
 They give you a visual map of how changes and branches relate to each other, and where their common ancestor is.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+You combine the checkin history of both branches. Represent it that way to show 2 different development paths coming back together.
