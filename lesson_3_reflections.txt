@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 Forks are on github - what i usually think of a branch in perforce.
 clones - copying a repository. this is really the same as a fork, but could be local.
 branch - different labels for development paths in a repo. similar to pvcs labels
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you're offline, you can reference any copies that have been pushed to github while you're doing your work
