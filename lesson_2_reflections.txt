@@ -17,3 +17,6 @@ They give you a visual map of how changes and branches relate to each other, and
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 You combine the checkin history of both branches. Represent it that way to show 2 different development paths coming back together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: lot faster. cons: can possibly make mistakes
