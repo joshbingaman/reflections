@@ -13,3 +13,6 @@ branch - different labels for development paths in a repo. similar to pvcs label
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you're offline, you can reference any copies that have been pushed to github while you're doing your work
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use perforce. :) Would be easier because I know how it works. Just a different model - not distributed source control.
